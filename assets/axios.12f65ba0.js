@@ -1,0 +1,1 @@
+import{d as o,r,o as t,c as a,t as n}from"./vendor.3cc353a3.js";var s=o({setup:()=>({count:r(0)})});s.render=function(o,r,s,u,c,e){return t(),a("div",null,"axios + count: "+n(o.count),1)};export default s;
